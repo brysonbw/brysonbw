@@ -1,4 +1,4 @@
-# Hi there, I'm Bryson! 🌌
+# Hi, I'm Bryson
 
 <a href="https://brysonward.com/"><img src="https://img.shields.io/badge/Portfolio_website-4285F4?&style=flat&logo=Google-chrome&logoColor=white" alt="portfolio-website"></a> <a href="https://discord.com/channels/844131858597806090">
          <img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=flat&logo=discord&logoColor=white" alt="discord"/>
