@@ -11,7 +11,7 @@ Much peace, much love, and God bless.
 
 ### Quotes I live by:
 
-> “Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it.” _Albert Einstein_
+> “Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it.” - _Albert Einstein_
 
 > “The definition of genius is taking the complex and making it simple.” - _Albert Einstein_
 
