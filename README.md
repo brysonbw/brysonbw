@@ -15,13 +15,13 @@ Much peace, much love, and God bless.
 
 > “The definition of genius is taking the complex and making it simple.” - _Albert Einstein_
 
-> "100% of the people who don't make it quit. Likewise, just keep going. - _Bryson Ward_
+> "100% of the people who don't make it quit. Likewise, just keep going." - _Bryson Ward_
 
 > "One of the greatest things we [humans] possess is are ability to think and to think with clarity." - _Bryson Ward_
 
 > “...if you always put limits on what you can do, physical or anything else, it’ll spread over into the rest of your life. It’ll spread into your work, into your morality, into your entire being. There are no limits. There are plateaus, but you must not stay there, you must go beyond them. If it kills you, it kills you. A man must constantly exceed his level.” - _Bruce Lee_
 
-> "Strength and growth come only through continuous effort and struggle" - _Napoleon Hill_
+> "Strength and growth come only through continuous effort and struggle." - _Napoleon Hill_
 
 > “Life is and will ever remain an equation incapable of solution, but it contains certain known factors.”  - _Nikola Tesla_
 
