@@ -1,5 +1,6 @@
 # Hi, I'm Bryson 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/844131858597806090)  [![Profile Views](https://komarev.com/ghpvc/?username=brysonbw&color=20232a)](https://github.com/brysonbw)  [![GitHub Followers](https://img.shields.io/github/followers/brysonbw.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/brysonbw)  [![GitHub Stars](https://img.shields.io/github/stars/brysonbw.svg?style=social&label=Star&maxAge=2592000)](https://github.com/brysonbw)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/844131858597806090)  [![Profile Views](https://komarev.com/ghpvc/?username=brysonbw&color=20232a)](https://github.com/brysonbw) [![GitHub Followers](https://img.shields.io/github/followers/brysonbw.svg)](https://github.com/brysonbw) [![GitHub Stars](https://img.shields.io/github/stars/brysonbw.svg?style=social&label=Star&maxAge=2592000)](https://github.com/brysonbw)
+
 
 Continue to learn, dream, work, collaborate, build, create, and spread love. Most importantly, **I encourage you to build for the greater good of humanity**. Life is an infinite journey to be the best version of yourself. Along the way, give yourself grace.
 
